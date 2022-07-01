@@ -41,7 +41,7 @@ require (
 	github.com/spf13/afero v1.2.2
 	github.com/spf13/cobra v1.1.3
 	github.com/spf13/pflag v1.0.5
-	github.com/tidwall/gjson v1.9.3
+	github.com/tidwall/gjson v1.14.1
 	github.com/zalando/go-keyring v0.1.1
 	golang.org/x/sys v0.0.0-20220204135822-1c1b9b1eba6a
 	golang.org/x/term v0.0.0-20210317153231-de623e64d2a6
